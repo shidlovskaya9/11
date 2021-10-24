@@ -1,0 +1,103 @@
+body{
+    font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+  text-rendering: optimizeLegibility;
+}
+
+a{
+    text-decoration: none;
+}
+
+.linkk1{
+    color: #fff;
+    border-bottom: 2px solid #fff;
+}
+
+.dark, .strip-dark, .stripped-dark {
+  background-color: #131313;
+  color: #e7e5e4;
+}
+
+section {
+  padding: 20px 80px 60px 80px;
+}
+
+.section-title {
+  text-align: center;
+  font-size: 70px;
+  line-height: 120px;
+}
+
+.section-content {
+  font-size: 18px;
+  line-height: 26px;
+  text-align: justify;
+}
+
+.light, .strip-light, .stripped-light {
+  background-color: #e7e5e4;
+  color: #131313;
+}
+
+section {
+  padding: 20px 80px 60px 80px;
+}
+
+.section-title {
+  text-align: center;
+  font-size: 80px;
+  line-height: 120px;
+}
+
+.section-content {
+  font-size: 18px;
+  line-height: 26px;
+  text-align: justify;
+}
+
+.ph{
+    display: inline-block;
+    margin-left: 230px;
+}
+
+.ph2{
+    margin-left: 30px;
+}
+
+.text{
+    font-size: 20px;
+  line-height: 26px;
+  text-align: center;
+    font-weight: bold;
+}
+
+.mod{
+    text-align: center;
+    font-size: 30px;
+}
+
+.ph1{
+    display: inline-block;
+    margin-left: 250px;
+}
+
+.ph3{
+    margin-left: 60px;
+}
+
+.ph4{
+  text-align: center;
+}
+
+.linkk{
+    font-size: 22px;
+    margin-left: 200px;
+    color: #000;
+    border-bottom: 2px solid #000;
+}
+
+.ph5{
+    text-align: center;
+   
+    
+}
+
